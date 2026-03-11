@@ -1,0 +1,10 @@
+phase_2 copy/
+*.pt
+*.pth
+*.npy
+*.csv
+*.mp4
+*.zip
+*.ckpt
+*.pkl
+.DS_Store
